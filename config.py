@@ -12,8 +12,8 @@ class Config:
     MAIL_USE_TLS = True
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
-    FLASKY_MAIL_SUBJECT_PREFIX = '[Olaweb]'
-    FLASKY_MAIL_SENDER = 'Olaweb Admin <info@olaweb.com>'
+    FLASKY_MAIL_SUBJECT_PREFIX = '[McQuarrie]'
+    FLASKY_MAIL_SENDER = 'McQuarrie Admin <info@mcquarrie.org.uk>'
     FLASKY_ADMIN = os.environ.get('FLASKY_ADMIN')
     FLASKY_POSTS_PER_PAGE = 20
     FLASKY_FOLLOWERS_PER_PAGE = 50
