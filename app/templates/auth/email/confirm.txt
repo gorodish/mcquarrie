@@ -1,6 +1,6 @@
 Dear {{ user.username }},
 
-Welcome to Olaweb!
+Welcome to mcquarrie.org.uk
 
 To confirm your account please click on the following link:
 
@@ -8,6 +8,6 @@ To confirm your account please click on the following link:
 
 Sincerely,
 
-The Ola Web Team
+mcquarrie.org.uk
 
 Note: replies to this email address are not monitored.
